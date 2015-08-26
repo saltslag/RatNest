@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RatNest</string>
+
+    <string name="score">0</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_rules">RulesActivity</string>
+</resources>
